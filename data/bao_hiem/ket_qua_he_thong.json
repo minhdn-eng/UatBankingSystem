@@ -1,0 +1,75 @@
+{
+  "message": "SUCCESS",
+  "timestamp": "2026-11-03T03:27:01.921+00:00",
+  "path": "/v1/view-periodic-indicator-report",
+  "requestId": "cd621a4c-394c-4d46-aaa6-fa70e9e4cedb",
+  "traceId": "7a535cb96feb9069",
+  "spanId": "dc7c1a801eb24443",
+  "data": {
+    "rows": [
+      {
+        "stt": 1,
+        "indicatorName": "Lợi nhuận sau thuế / Vốn chủ sở hữu",
+        "evaluationValue": "8.53%",
+        "comparisonValue": "6.51%",
+        "variationRate": "30.88%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      },
+      {
+        "stt": 2,
+        "indicatorName": "Đầu tư tài chính ngắn hạn",
+        "evaluationValue": "3,260,961",
+        "comparisonValue": "3,470,488",
+        "variationRate": "-6.04%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      },
+      {
+        "stt": 3,
+        "indicatorName": "Tỷ lệ biên khả năng thanh toán",
+        "evaluationValue": "129.38%",
+        "comparisonValue": "130.28%",
+        "variationRate": "-0.69%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      },
+      {
+        "stt": 4,
+        "indicatorName": "Tăng trưởng tài sản",
+        "evaluationValue": "1.48%",
+        "comparisonValue": "3.91%",
+        "variationRate": "-62.19%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      },
+      {
+        "stt": 5,
+        "indicatorName": "Tỷ lệ chất lượng tài sản",
+        "evaluationValue": "35.84%",
+        "comparisonValue": "38.13%",
+        "variationRate": "-6.02%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      },
+      {
+        "stt": 6,
+        "indicatorName": "Tỷ lệ kết hợp",
+        "evaluationValue": "100.4%",
+        "comparisonValue": "98.63%",
+        "variationRate": "1.8%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      },
+      {
+        "stt": 7,
+        "indicatorName": "Tổng nợ / Vốn chủ sở hữu",
+        "evaluationValue": "179.05%",
+        "comparisonValue": "162.25%",
+        "variationRate": "10.36%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      }
+    ]
+  }
+}

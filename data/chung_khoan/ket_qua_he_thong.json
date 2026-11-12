@@ -1,0 +1,75 @@
+{
+  "message": "SUCCESS",
+  "timestamp": "2026-11-07T10:30:00.000+00:00",
+  "path": "/v1/view-periodic-indicator-report",
+  "requestId": "mock-lpbank-sec-25396-001",
+  "traceId": "9b1c784e2026a001",
+  "spanId": "e1f2a3b4c5d6001",
+  "data": {
+    "rows": [
+      {
+        "stt": 1,
+        "indicatorName": "Lợi nhuận sau thuế / Vốn chủ sở hữu",
+        "evaluationValue": "8.66%",
+        "comparisonValue": "8.62%",
+        "variationRate": "0.54%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      },
+      {
+        "stt": 2,
+        "indicatorName": "Lợi nhuận sau thuế / Tổng doanh thu",
+        "evaluationValue": "34.50%",
+        "comparisonValue": "33.73%",
+        "variationRate": "2.27%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      },
+      {
+        "stt": 3,
+        "indicatorName": "Tài sản ngắn hạn",
+        "evaluationValue": "3,260,961",
+        "comparisonValue": "2,800,000",
+        "variationRate": "16.46%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      },
+      {
+        "stt": 4,
+        "indicatorName": "Tỷ lệ vốn khả dụng",
+        "evaluationValue": "265.42%",
+        "comparisonValue": "248.15%",
+        "variationRate": "6.96%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      },
+      {
+        "stt": 5,
+        "indicatorName": "Cho vay hoạt động ký quỹ / Tổng tài sản",
+        "evaluationValue": "24.67%",
+        "comparisonValue": "23.81%",
+        "variationRate": "3.63%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      },
+      {
+        "stt": 6,
+        "indicatorName": "Quỹ dự phòng / (Đầu tư tài chính ngắn hạn + Đầu tư tài chính dài hạn + các khoản phải thu)",
+        "evaluationValue": "2.52%",
+        "comparisonValue": "2.52%",
+        "variationRate": "-0.04%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      },
+      {
+        "stt": 7,
+        "indicatorName": "Vốn chủ sở hữu",
+        "evaluationValue": "3,983,151",
+        "comparisonValue": "13,195,485",
+        "variationRate": "-69.81%",
+        "evaluationFormula": null,
+        "comparisonFormula": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "message": "SUCCESS",
+  "data": {
+    "reportId": 25396,
+    "companyName": "Công ty Cổ phần Chứng khoán LPBank",
+    "year": 2026,
+    "bctcList": [
+      {
+        "itemCode": "CD100",
+        "itemName": "Tài sản ngắn hạn",
+        "value1": 3260961000000,
+        "value2": 2800000000000
+      },
+      {
+        "itemCode": "CD112",
+        "itemName": "Tài sản tài chính FVTPL",
+        "value1": 200000000000,
+        "value2": 180000000000
+      },
+      {
+        "itemCode": "CD113",
+        "itemName": "Đầu tư nắm giữ đến ngày đáo hạn (HTM)",
+        "value1": 100000000000,
+        "value2": 90000000000
+      },
+      {
+        "itemCode": "CD114",
+        "itemName": "Các khoản cho vay",
+        "value1": 1500000000000,
+        "value2": 1200000000000
+      },
+      {
+        "itemCode": "CD1141",
+        "itemName": "Cho vay hoạt động giao dịch ký quỹ (Margin)",
+        "value1": 1250000000000,
+        "value2": 1000000000000
+      },
+      {
+        "itemCode": "CD115",
+        "itemName": "Tài sản tài chính sẵn sàng để bán (AFS)",
+        "value1": 50000000000,
+        "value2": 40000000000
+      },
+      {
+        "itemCode": "CD119",
+        "itemName": "Các khoản phải thu khác",
+        "value1": 20000000000,
+        "value2": 15000000000
+      },
+      {
+        "itemCode": "CD122",
+        "itemName": "Phải thu dịch vụ CTCK",
+        "value1": 10000000000,
+        "value2": 8000000000
+      },
+      {
+        "itemCode": "CD212",
+        "itemName": "Đầu tư tài chính dài hạn",
+        "value1": 300000000000,
+        "value2": 250000000000
+      },
+      {
+        "itemCode": "CD270",
+        "itemName": "TỔNG CỘNG TÀI SẢN",
+        "itemCodeDescription": "CD270==CD100+CD200",
+        "value1": 5066312699267,
+        "value2": 29932218693343
+      },
+      {
+        "itemCode": "CD300",
+        "itemName": "NỢ PHẢI TRẢ",
+        "value1": 1083161644017,
+        "value2": 16736733214341
+      },
+      {
+        "itemCode": "CD400",
+        "itemName": "VỐN CHỦ SỞ HỮU",
+        "value1": 3983151055250,
+        "value2": 13195485479002
+      },
+      {
+        "itemCode": "CD415",
+        "itemName": "Quỹ dự phòng tài chính và rủi ro nghiệp vụ",
+        "value1": 55000000000,
+        "value2": 45000000000
+      },
+      {
+        "itemCode": "KQ20",
+        "itemName": "Doanh thu hoạt động",
+        "value1": 850000000000,
+        "value2": 720000000000
+      },
+      {
+        "itemCode": "KQ50",
+        "itemName": "Doanh thu hoạt động tài chính",
+        "value1": 120000000000,
+        "value2": 95000000000
+      },
+      {
+        "itemCode": "KQ71",
+        "itemName": "Thu nhập khác",
+        "value1": 30000000000,
+        "value2": 15000000000
+      },
+      {
+        "itemCode": "KQ200",
+        "itemName": "TỔNG LỢI NHUẬN KẾ TOÁN SAU THUẾ",
+        "value1": 345000000000,
+        "value2": 280000000000
+      },
+      {
+        "itemCode": "NCD036",
+        "itemName": "Tỷ lệ vốn khả dụng (%)",
+        "value1": 265.42,
+        "value2": 248.15
+      }
+    ]
+  }
+}

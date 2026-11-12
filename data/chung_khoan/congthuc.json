@@ -1,0 +1,150 @@
+[
+  {
+    "code": "R01",
+    "name": "ROE (%)",
+    "formula": "KQ200/CD400",
+    "multiplier": "100",
+    "unit": "%",
+    "decimals": 2,
+    "variation_decimals": 2,
+    "variation": "relative",
+    "system_names": [
+      "Lợi nhuận sau thuế / Vốn chủ sở hữu %"
+    ],
+    "evaluation_source": "evaluation",
+    "evaluation_field": "value1",
+    "comparison_source": "comparison",
+    "comparison_field": "value1",
+    "indicator_codes": [],
+    "indicator_names": [
+      "ROE (%)",
+      "Tỷ suất lợi nhuận trên vốn chủ sở hữu (ROE) (%)"
+    ]
+  },
+  {
+    "code": "R02",
+    "name": "Lợi nhuận sau thuế/Tổng doanh thu (%)",
+    "formula": "KQ200/(KQ20+KQ50+KQ71)",
+    "multiplier": "100",
+    "unit": "%",
+    "decimals": 2,
+    "variation_decimals": 2,
+    "variation": "relative",
+    "system_names": [
+      "Lợi nhuận sau thuế / Tổng doanh thu (lũy kế đến thời điểm quý đánh giá) %"
+    ],
+    "evaluation_source": "evaluation",
+    "evaluation_field": "value1",
+    "comparison_source": "evaluation",
+    "comparison_field": "value2",
+    "indicator_codes": [],
+    "indicator_names": [
+      "Lợi nhuận sau thuế/Tổng doanh thu (%)"
+    ]
+  },
+  {
+    "code": "R03",
+    "name": "Tài sản ngắn hạn",
+    "formula": "CD100",
+    "multiplier": "0.000001",
+    "unit": "Triệu đồng",
+    "decimals": 0,
+    "variation_decimals": 2,
+    "variation": "relative",
+    "system_names": [
+      "Tài sản ngắn hạn"
+    ],
+    "evaluation_source": "evaluation",
+    "evaluation_field": "value1",
+    "comparison_source": "evaluation",
+    "comparison_field": "value2",
+    "indicator_codes": [],
+    "indicator_names": [
+      "Tài sản ngắn hạn"
+    ]
+  },
+  {
+    "code": "R04",
+    "name": "Tỷ lệ vốn khả dụng (%)",
+    "formula": "NCD036",
+    "multiplier": "1",
+    "unit": "%",
+    "decimals": 2,
+    "variation_decimals": 2,
+    "variation": "relative",
+    "system_names": [
+      "Tỷ lệ vốn khả dụng %"
+    ],
+    "evaluation_source": "evaluation",
+    "evaluation_field": "value1",
+    "comparison_source": "evaluation",
+    "comparison_field": "value2",
+    "indicator_codes": [],
+    "indicator_names": [
+      "Tỷ lệ vốn khả dụng (%)"
+    ]
+  },
+  {
+    "code": "R05",
+    "name": "Cho vay hoạt động ký quỹ/Tổng tài sản (%)",
+    "formula": "CD1141/CD270",
+    "multiplier": "100",
+    "unit": "%",
+    "decimals": 2,
+    "variation_decimals": 2,
+    "variation": "relative",
+    "system_names": [
+      "Cho vay hoạt động ký quỹ / Tổng tài sản %"
+    ],
+    "evaluation_source": "evaluation",
+    "evaluation_field": "value1",
+    "comparison_source": "comparison",
+    "comparison_field": "value1",
+    "indicator_codes": [],
+    "indicator_names": [
+      "Cho vay hoạt động ký quỹ/Tổng tài sản (%)"
+    ]
+  },
+  {
+    "code": "R06",
+    "name": "Quỹ dự phòng/(Đầu tư tài chính ngắn hạn + Đầu tư tài chính dài hạn + Các khoản phải thu) (%)",
+    "formula": "CD415/(CD112+CD113+CD114+CD115+CD212+CD119+CD122)",
+    "multiplier": "100",
+    "unit": "%",
+    "decimals": 2,
+    "variation_decimals": 2,
+    "variation": "relative",
+    "system_names": [
+      "Quỹ dự phòng / (Đầu tư tài chính ngắn hạn + Đầu tư tài chính dài hạn + các khoản phải thu) %"
+    ],
+    "evaluation_source": "evaluation",
+    "evaluation_field": "value1",
+    "comparison_source": "comparison",
+    "comparison_field": "value1",
+    "indicator_codes": [],
+    "indicator_names": [
+      "Quỹ dự phòng/(Đầu tư tài chính ngắn hạn + Đầu tư tài chính dài hạn + Các khoản phải thu) (%)"
+    ]
+  },
+  {
+    "code": "R07",
+    "name": "Vốn chủ sở hữu",
+    "formula": "CD400",
+    "multiplier": "0.000001",
+    "unit": "Triệu đồng",
+    "decimals": 0,
+    "variation_decimals": 2,
+    "variation": "relative",
+    "system_names": [
+      "Vốn chủ sở hữu"
+    ],
+    "evaluation_source": "evaluation",
+    "evaluation_field": "value1",
+    "comparison_source": "evaluation",
+    "comparison_field": "value2",
+    "indicator_codes": [],
+    "indicator_names": [
+      "Vốn chủ sở hữu"
+    ]
+  }
+]
